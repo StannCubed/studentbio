@@ -1,0 +1,30 @@
+h1 {
+	color:red;
+	text-align:center;
+	background-color:powderblue;
+	font-weight:bolder;
+}
+
+h2 {
+	color:green;
+	background-color:orange;
+	font-weight:bold;
+	font-style:italic;
+	width:200px;
+	text-align:center;
+}
+
+.funFont {
+	font-family:"Comic Sans Ms";
+	color:purple;
+	background-color:lightpink;
+
+}
+ body {
+ 	background-color:grey;
+ }
+
+ img {
+ 	width:200px;
+ 	height:200px;
+ }
